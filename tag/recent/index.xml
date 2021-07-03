@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>recent | Zhiyong Yang</title>
+    <link>https://joshuaas.github.io/tag/recent/</link>
+      <atom:link href="https://joshuaas.github.io/tag/recent/index.xml" rel="self" type="application/rss+xml" />
+    <description>recent</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 18 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://joshuaas.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>recent</title>
+      <link>https://joshuaas.github.io/tag/recent/</link>
+    </image>
+    
+    <item>
+      <title>When All We Need is a Piece of the Pie: A Generic Framework for Optimizing Two-way Partial AUC</title>
+      <link>https://joshuaas.github.io/publication/icml-2021/</link>
+      <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://joshuaas.github.io/publication/icml-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Not All Samples are Trustworthy: Towards Deep Robust SVP Prediction</title>
+      <link>https://joshuaas.github.io/publication/pami-2021/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://joshuaas.github.io/publication/pami-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Task-Feature Collaborative Learning with Application to Personalized Attribute Prediction</title>
+      <link>https://joshuaas.github.io/publication/pami-2020-task-feature/</link>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://joshuaas.github.io/publication/pami-2020-task-feature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalized Block-Diagonal Structure Pursuit: Learning Soft Latent Task Assignment against Negative Transfer </title>
+      <link>https://joshuaas.github.io/publication/nips-19a/nips-19a/</link>
+      <pubDate>Sat, 07 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://joshuaas.github.io/publication/nips-19a/nips-19a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DM2C: Deep Mixed-Modal Clustering </title>
+      <link>https://joshuaas.github.io/publication/nips-19b/nips-19b/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://joshuaas.github.io/publication/nips-19b/nips-19b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iSplit LBI: Individualized Partial Ranking with Ties via Split LBI </title>
+      <link>https://joshuaas.github.io/publication/nips-19c/nips-19c/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://joshuaas.github.io/publication/nips-19c/nips-19c/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
