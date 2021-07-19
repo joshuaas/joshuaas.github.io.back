@@ -5,12 +5,36 @@
     <link>https://joshuaas.github.io/tag/source-themes/</link>
       <atom:link href="https://joshuaas.github.io/tag/source-themes/index.xml" rel="self" type="application/rss+xml" />
     <description>Source Themes</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 03 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://joshuaas.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Source Themes</title>
       <link>https://joshuaas.github.io/tag/source-themes/</link>
     </image>
+    
+    <item>
+      <title>Implicit feedbacks are not always favorable: Iterative Relabeled One-Class Collaborative Filtering against Noisy Interactions</title>
+      <link>https://joshuaas.github.io/publication/acm-mm-2021/zitai_implicitfeedbackcs/</link>
+      <pubDate>Sat, 03 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://joshuaas.github.io/publication/acm-mm-2021/zitai_implicitfeedbackcs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Meta-path-aware Embeddings for Recommender Systems</title>
+      <link>https://joshuaas.github.io/publication/acm-mm-2021/qianxiu_learningmetapathaware/</link>
+      <pubDate>Sat, 03 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://joshuaas.github.io/publication/acm-mm-2021/qianxiu_learningmetapathaware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pareto Optimality for Fairness-constrained Collaborative Filtering</title>
+      <link>https://joshuaas.github.io/publication/acm-mm-2021/qianxiu_paretooptimality/</link>
+      <pubDate>Sat, 03 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://joshuaas.github.io/publication/acm-mm-2021/qianxiu_paretooptimality/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Seeking the Shape of Sound: An Adaptive Framework for Learning Voice-Face Association</title>
