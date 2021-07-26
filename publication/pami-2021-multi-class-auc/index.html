@@ -61,6 +61,9 @@
 
   
   
+    
+    <script src="/js/mathjax-config.js"></script>
+  
 
   
   
@@ -214,9 +217,9 @@
 
       
       
-        
-      
 
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
       
     
       
@@ -839,6 +842,9 @@
 
   <div class="article-container">
 
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract">The Area under the ROC curve (AUC) is a well-known ranking metric for problems such as imbalanced learning and recommender systems. The vast majority of existing AUC-optimization-based machine learning methods only focus on binary-class cases, while leaving the multiclass cases unconsidered. In this paper, we start an early trial to consider the problem of learning multiclass scoring functions via optimizing multiclass AUC metrics. Our foundation is based on the M metric, which is a well-known multiclass extension of AUC. We first pay a revisit to this metric, showing that it could eliminate the imbalance issue from the minority class pairs. Motivated by this, we propose an empirical surrogate risk minimization framework to approximately optimize the M metric. Theoretically, we show that: (i) optimizing most of the popular differentiable surrogate losses suffices to reach the Bayes optimal scoring function asymptotically; (ii) the training framework enjoys an imbalance-aware generalization error bound, which pays more attention to the bottleneck samples of minority classes compared with the traditional $O(\sqrt{1/N})$ result. Practically, to deal with the low scalability of the computational operations, we propose acceleration methods for three popular surrogate loss functions, including the exponential loss, squared loss, and hinge loss, to speed up loss and gradient evaluations. Finally, experimental results on 11 real-world datasets demonstrate the effectiveness of our proposed framework.</p>
     
 
     
