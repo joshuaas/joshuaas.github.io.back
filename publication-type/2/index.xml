@@ -5,17 +5,25 @@
     <link>https://joshuaas.github.io/publication-type/2/</link>
       <atom:link href="https://joshuaas.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 31 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 31 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://joshuaas.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://joshuaas.github.io/media/icon_hu22f39a3d43299fa6f208f732938d6c98_11795_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
       <link>https://joshuaas.github.io/publication-type/2/</link>
     </image>
     
     <item>
+      <title>Meta-Wrapper: Differentiable Wrapping Operator for User Interest Selection in CTR Prediction</title>
+      <link>https://joshuaas.github.io/publication/pami-2021-meta-wrapper/</link>
+      <pubDate>Sat, 31 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://joshuaas.github.io/publication/pami-2021-meta-wrapper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Learning with Multiclass AUC: Theory and Algorithms</title>
       <link>https://joshuaas.github.io/publication/pami-2021-multi-class-auc/</link>
-      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://joshuaas.github.io/publication/pami-2021-multi-class-auc/</guid>
       <description></description>
     </item>
@@ -23,7 +31,7 @@
     <item>
       <title>Not All Samples are Trustworthy: Towards Deep Robust SVP Prediction</title>
       <link>https://joshuaas.github.io/publication/pami-2021/</link>
-      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://joshuaas.github.io/publication/pami-2021/</guid>
       <description></description>
     </item>

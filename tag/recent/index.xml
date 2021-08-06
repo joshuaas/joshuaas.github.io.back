@@ -5,34 +5,42 @@
     <link>https://joshuaas.github.io/tag/recent/</link>
       <atom:link href="https://joshuaas.github.io/tag/recent/index.xml" rel="self" type="application/rss+xml" />
     <description>recent</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 31 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 31 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://joshuaas.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://joshuaas.github.io/media/icon_hu22f39a3d43299fa6f208f732938d6c98_11795_512x512_fill_lanczos_center_2.png</url>
       <title>recent</title>
       <link>https://joshuaas.github.io/tag/recent/</link>
     </image>
     
     <item>
-      <title>Learning with Multiclass AUC: Theory and Algorithms</title>
-      <link>https://joshuaas.github.io/publication/pami-2021-multi-class-auc/</link>
-      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://joshuaas.github.io/publication/pami-2021-multi-class-auc/</guid>
+      <title>Meta-Wrapper: Differentiable Wrapping Operator for User Interest Selection in CTR Prediction</title>
+      <link>https://joshuaas.github.io/publication/pami-2021-meta-wrapper/</link>
+      <pubDate>Sat, 31 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://joshuaas.github.io/publication/pami-2021-meta-wrapper/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>When All We Need is a Piece of the Pie: A Generic Framework for Optimizing Two-way Partial AUC</title>
-      <link>https://joshuaas.github.io/publication/icml-2021/</link>
-      <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://joshuaas.github.io/publication/icml-2021/</guid>
+      <title>Learning with Multiclass AUC: Theory and Algorithms</title>
+      <link>https://joshuaas.github.io/publication/pami-2021-multi-class-auc/</link>
+      <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://joshuaas.github.io/publication/pami-2021-multi-class-auc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Not All Samples are Trustworthy: Towards Deep Robust SVP Prediction</title>
       <link>https://joshuaas.github.io/publication/pami-2021/</link>
-      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://joshuaas.github.io/publication/pami-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When All We Need is a Piece of the Pie: A Generic Framework for Optimizing Two-way Partial AUC</title>
+      <link>https://joshuaas.github.io/publication/icml-2021/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://joshuaas.github.io/publication/icml-2021/</guid>
       <description></description>
     </item>
     
