@@ -29,6 +29,22 @@
     </item>
     
     <item>
+      <title>Meta-Wrapper: Differentiable Wrapping Operator for User Interest Selection in CTR Prediction</title>
+      <link>https://joshuaas.github.io/publication/pami-2021-meta-wrapper/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://joshuaas.github.io/publication/pami-2021-meta-wrapper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Not All Samples are Trustworthy: Towards Deep Robust SVP Prediction</title>
+      <link>https://joshuaas.github.io/publication/pami-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://joshuaas.github.io/publication/pami-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Task-Feature Collaborative Learning with Application to Personalized Attribute Prediction</title>
       <link>https://joshuaas.github.io/publication/pami-2020-task-feature/</link>
       <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
@@ -49,6 +65,22 @@
       <link>https://joshuaas.github.io/publication/tip-19/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://joshuaas.github.io/publication/tip-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DM2C: Deep Mixed-Modal Clustering </title>
+      <link>https://joshuaas.github.io/publication/nips-19b/nips-19b/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://joshuaas.github.io/publication/nips-19b/nips-19b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iSplit LBI: Individualized Partial Ranking with Ties via Split LBI </title>
+      <link>https://joshuaas.github.io/publication/nips-19c/nips-19c/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://joshuaas.github.io/publication/nips-19c/nips-19c/</guid>
       <description></description>
     </item>
     

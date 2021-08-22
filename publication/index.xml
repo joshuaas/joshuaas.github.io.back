@@ -5,20 +5,12 @@
     <link>https://joshuaas.github.io/publication/</link>
       <atom:link href="https://joshuaas.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 31 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 24 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://joshuaas.github.io/media/icon_hu22f39a3d43299fa6f208f732938d6c98_11795_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://joshuaas.github.io/publication/</link>
     </image>
-    
-    <item>
-      <title>Meta-Wrapper: Differentiable Wrapping Operator for User Interest Selection in CTR Prediction</title>
-      <link>https://joshuaas.github.io/publication/pami-2021-meta-wrapper/</link>
-      <pubDate>Sat, 31 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://joshuaas.github.io/publication/pami-2021-meta-wrapper/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Learning with Multiclass AUC: Theory and Algorithms</title>
@@ -49,14 +41,6 @@
       <link>https://joshuaas.github.io/publication/acm-mm-2021/qianxiu_paretooptimality/</link>
       <pubDate>Sat, 03 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://joshuaas.github.io/publication/acm-mm-2021/qianxiu_paretooptimality/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Not All Samples are Trustworthy: Towards Deep Robust SVP Prediction</title>
-      <link>https://joshuaas.github.io/publication/pami-2021/</link>
-      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://joshuaas.github.io/publication/pami-2021/</guid>
       <description></description>
     </item>
     
@@ -97,6 +81,22 @@
       <link>https://joshuaas.github.io/publication/aaai-2021-b/</link>
       <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://joshuaas.github.io/publication/aaai-2021-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meta-Wrapper: Differentiable Wrapping Operator for User Interest Selection in CTR Prediction</title>
+      <link>https://joshuaas.github.io/publication/pami-2021-meta-wrapper/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://joshuaas.github.io/publication/pami-2021-meta-wrapper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Not All Samples are Trustworthy: Towards Deep Robust SVP Prediction</title>
+      <link>https://joshuaas.github.io/publication/pami-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://joshuaas.github.io/publication/pami-2021/</guid>
       <description></description>
     </item>
     
