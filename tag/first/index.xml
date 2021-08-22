@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>first | Zhiyong Yang</title>
+    <link>https://joshuaas.github.io/tag/first/</link>
+      <atom:link href="https://joshuaas.github.io/tag/first/index.xml" rel="self" type="application/rss+xml" />
+    <description>first</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 24 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://joshuaas.github.io/media/icon_hu22f39a3d43299fa6f208f732938d6c98_11795_512x512_fill_lanczos_center_2.png</url>
+      <title>first</title>
+      <link>https://joshuaas.github.io/tag/first/</link>
+    </image>
+    
+    <item>
+      <title>Learning with Multiclass AUC: Theory and Algorithms</title>
+      <link>https://joshuaas.github.io/publication/pami-2021-multi-class-auc/</link>
+      <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://joshuaas.github.io/publication/pami-2021-multi-class-auc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>When All We Need is a Piece of the Pie: A Generic Framework for Optimizing Two-way Partial AUC</title>
+      <link>https://joshuaas.github.io/publication/icml-2021/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://joshuaas.github.io/publication/icml-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Task-Feature Collaborative Learning with Application to Personalized Attribute Prediction</title>
+      <link>https://joshuaas.github.io/publication/pami-2020-task-feature/</link>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://joshuaas.github.io/publication/pami-2020-task-feature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalized Block-Diagonal Structure Pursuit: Learning Soft Latent Task Assignment against Negative Transfer </title>
+      <link>https://joshuaas.github.io/publication/nips-19a/nips-19a/</link>
+      <pubDate>Sat, 07 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://joshuaas.github.io/publication/nips-19a/nips-19a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Split Multiplicative Multi-view Subspace Clustering</title>
+      <link>https://joshuaas.github.io/publication/tip-19/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://joshuaas.github.io/publication/tip-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Common to Special: When Multi-Attribute Learning Meets Personalized Opinions</title>
+      <link>https://joshuaas.github.io/publication/aaai2018/</link>
+      <pubDate>Sat, 07 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://joshuaas.github.io/publication/aaai2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
