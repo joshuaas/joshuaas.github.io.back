@@ -33,6 +33,22 @@
     </item>
     
     <item>
+      <title>ER: Equivariance Regularizer for Knowledge Graph Completion</title>
+      <link>https://joshuaas.github.io/publication/aaai-22-er/</link>
+      <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://joshuaas.github.io/publication/aaai-22-er/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geometry Interaction Knowledge Graph Embeddings</title>
+      <link>https://joshuaas.github.io/publication/aaai-22-geo-interact/</link>
+      <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://joshuaas.github.io/publication/aaai-22-geo-interact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>When False Positive is Intolerant: End-to-End OPtimiztion with Low FPR for Multipartite Ranking</title>
       <link>https://joshuaas.github.io/publication/nips-2021-low-fpr/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
