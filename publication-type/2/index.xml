@@ -5,12 +5,20 @@
     <link>https://joshuaas.github.io/publication-type/2/</link>
       <atom:link href="https://joshuaas.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 24 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://joshuaas.github.io/media/icon_hu22f39a3d43299fa6f208f732938d6c98_11795_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
       <link>https://joshuaas.github.io/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Rethinking Collaborative Metric Learning: Toward an Efficient Alternative without Negative Sampling</title>
+      <link>https://joshuaas.github.io/publication/pami-2021-sfcml/</link>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://joshuaas.github.io/publication/pami-2021-sfcml/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Learning with Multiclass AUC: Theory and Algorithms</title>
