@@ -33,6 +33,22 @@
     </item>
     
     <item>
+      <title>Optimizing Two-way Partial AUC with an End-to-end Framework</title>
+      <link>https://joshuaas.github.io/publication/pami-2022-attack/</link>
+      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://joshuaas.github.io/publication/pami-2022-attack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AdAUC: End-to-end Adversarial AUC Optimization Against Long-tail Problems</title>
+      <link>https://joshuaas.github.io/publication/icml-2022-hwz/</link>
+      <pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://joshuaas.github.io/publication/icml-2022-hwz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ER: Equivariance Regularizer for Knowledge Graph Completion</title>
       <link>https://joshuaas.github.io/publication/aaai-22-er/</link>
       <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
