@@ -7,7 +7,7 @@
     <description>first</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 30 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://joshuaas.github.io/media/icon_hu22f39a3d43299fa6f208f732938d6c98_11795_512x512_fill_lanczos_center_2.png</url>
+      <url>https://joshuaas.github.io/media/icon_hu22f39a3d43299fa6f208f732938d6c98_11795_512x512_fill_lanczos_center_3.png</url>
       <title>first</title>
       <link>https://joshuaas.github.io/tag/first/</link>
     </image>
@@ -17,6 +17,14 @@
       <link>https://joshuaas.github.io/publication/pami-2022-attack/</link>
       <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
       <guid>https://joshuaas.github.io/publication/pami-2022-attack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AdAUC: End-to-end Adversarial AUC Optimization Against Long-tail Problems</title>
+      <link>https://joshuaas.github.io/publication/icml-2022-hwz/</link>
+      <pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://joshuaas.github.io/publication/icml-2022-hwz/</guid>
       <description></description>
     </item>
     
